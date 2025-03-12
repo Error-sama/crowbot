@@ -4,7 +4,7 @@ ____
 
 ce qu'on peut faire avec le crowbot :
 
-  - le connecter a distance par wifi ou par bluetooth
+  - le connecter a distance par wifi ou par bluetooth ou encore par télécommande
   - le connecter a un ordinateur pour le controler ou injecter du code
 
 utilisation des library pour le programme princpal du crowbot :
@@ -22,4 +22,14 @@ pour la connection a distance il utilise :
   - BLEUtils.h
   - BLE2902.h
 
+___
+
+controle de la manette :
+
+  - nous avons 4 bouton qui vont de vert, rouge, bleu, jaune.
+      - chacune de ces touches on une fonctionalité :
+          -
+          -
+          -
+          -
 
