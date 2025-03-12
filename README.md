@@ -16,4 +16,10 @@ utilisation des library pour le programme princpal du crowbot :
   - BLEScan.h
   - BLEDevice.h
 
+pour la connection a distance il utilise :
+
+  - BLEServer.h
+  - BLEUtils.h
+  - BLE2902.h
+
 
