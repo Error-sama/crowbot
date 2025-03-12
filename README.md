@@ -26,7 +26,7 @@ ___
 
 controle de la manette :
 
-  - nous avons 4 bouton principal qui vont de vert, rouge, bleu, jaune.
+  - nous avons 4 bouton principal qui vont de vert pour D, rouge pour A, bleu pour C, jaune pour B.
       - chacune de ces touches on une fonctionalité :
           - Le Bouton A : Appuyez sur la touche a pour éviter les obstacles, puis appuyez sur fermer.
           - Le Bouton B : patrouille de ligne, puis appuyez sur fermer.
