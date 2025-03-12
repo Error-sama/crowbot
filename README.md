@@ -2,4 +2,6 @@
 
 ____
 
+ce qu'on peut faire avec le crowbot :
 
+  - le connecter a distance 
