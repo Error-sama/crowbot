@@ -26,10 +26,14 @@ ___
 
 controle de la manette :
 
-  - nous avons 4 bouton qui vont de vert, rouge, bleu, jaune.
+  - nous avons 4 bouton principal qui vont de vert, rouge, bleu, jaune.
       - chacune de ces touches on une fonctionalité :
-          -
-          -
-          -
-          -
+          - Le Bouton A : Appuyez sur la touche a pour éviter les obstacles, puis appuyez sur fermer.
+          - Le Bouton B : patrouille de ligne, puis appuyez sur fermer.
+          - Le Bouton C : recherche de lumière, puis appuyez sur Fermer.
+          - Le Bouton D : chanter, clignoter, puis appuyer pour fermer.
+       
+  - Nous avons ensuite deux bouton sur le haut de la manette L et R (pour gauche et droite).
+      - Pour le Bouton L : allumez la lumière RVB de manière aléatoire, puis appuyez pour l'éteindre.
+      - Pour le Bouton R : le buzzer sonne pendant 300 ms.
 
